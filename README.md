@@ -1,4 +1,4 @@
-# 🧪 React Starter Lab
+# 🧪 Clean React Template
 
 A minimal yet powerful React starter template to build modern web apps — packed with:
 

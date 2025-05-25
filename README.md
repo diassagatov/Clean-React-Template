@@ -21,7 +21,7 @@ git clone https://github.com/your-username/clean-react-template
 ```bash
 cd clean-react-template
 ```
-### (OPTIONAL) If you want to disconnect from the template repository, so it won't highlight all your updates 
+### If you want to disconnect from the template repository, so it won't highlight all your updates 
 ```bash
 git remote remove origin 
 ```
